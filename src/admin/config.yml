@@ -1,5 +1,8 @@
 backend:
   name: git-gateway
+  repo: khaledtag98/gridsome-netlify-blog
+  site_domain: cms.netlify.com
+  local_backend: true
   branch: master
 
 media_folder: "static/uploads"
